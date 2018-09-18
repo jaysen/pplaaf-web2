@@ -12804,6 +12804,7 @@ body:not(.no-transition) #wrapper,
 	-webkit-text-stroke: 0px !important;
 	text-shadow: none !important;
 }
+
 /* ----------------------------------------------------------------
 	Share buttons
 -----------------------------------------------------------------*/
@@ -12881,6 +12882,7 @@ body:not(.no-transition) #wrapper,
 .fa-reddit-alien:hover {
     background-color: #ff4500;
 }
+
 
 /* LinkedIn button */
 .fa-linkedin {
