@@ -1,6 +1,6 @@
 ---
 layout: post
-lang: en
+lang: es
 title: La sombra de Lumumba, esta vez, contra la corrupción
 author: 
 origin: This article first appeared in <a href="https://elpais.com/elpais/2018/08/07/planeta_futuro/1533654934_264710.html?id_externo_rsoc=TW_CC" target="_blank">El Pais</a>
