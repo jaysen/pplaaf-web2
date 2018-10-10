@@ -1,6 +1,6 @@
 ---
 layout: post
-lang: en
+lang: es
 title: La clave contra la corrupción&#58 mantener vivos a los informantes
 author: 
 origin: This article first appeared in <a href="https://elpais.com/elpais/2018/08/14/planeta_futuro/1534243683_087704.html" target="_blank">El Pais</a>
