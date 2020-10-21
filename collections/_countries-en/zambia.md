@@ -92,7 +92,7 @@ The Ant-Corruption Commission of Zambia is the agency mandated under the Anti-Co
 ### Office of The Auditor General of Zambia
 The Auditor General is mandated to assist Parliament to hold to account and call to account all persons entrusted with the management of public funds and resources and to ensure Parliament’s ultimate supervision and control over all aspects of public finance. It is a partnering institution in the fight against the scourge of corruption. 
 
-- Address: State House, PO Box 30135, Independence Avenue, Lusaka, Zambia
+- Head Office: Stand No. 7951, Haile selassie avenue, Long Acres, PO Box 50071
 - Tel: +260 211 265018
 - Email: [info@sh.gov.zm](mailto:info@sh.gov.zm)
 
