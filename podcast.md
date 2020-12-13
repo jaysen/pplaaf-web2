@@ -1,17 +1,11 @@
 ---
-layout: post
+layout: page
 lang: en
+title: The Witness - Podcast
 translated: 
-title: PPLAAF launches The Witness, a podcast on the realities of whistleblowing in Africa
-author: PPLAAF
-excerpt_separator: <!--more-->
-image: witness_podcast.jpg
-excerpt: PPLAAF launches The Witness - a podcast on the realities of whistleblowing in Africa
- 
-tag: [featured, Podcast]
+tag: [Podcast]
 ---
-
-PPLAAF is proud to launch [The Witness](https://www.volume.africa/the-witness), its podcast on the realities of whistleblowing in Africa.
+PPLAAF is proud to launch [The Witness](https://www.volume.africa/the-witness), its podcast on the realities of whistleblowing in Africa.<br/>
 Hosted by Fatima Hassan and Produced by [Volume Africa](https://www.volume.africa)
 
 <img class="img-responsive img-post center-block" src="/assets/images/posts/witness_podcast.jpg"> 
