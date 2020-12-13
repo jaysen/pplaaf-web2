@@ -59,6 +59,13 @@
                     <li class="mega-menu mega-menu-small"><a href="/fr/news.html"><div>News</div></a>
                         <div class="mega-menu-content style-2 clearfix menu-pos-invert">
                             <ul class="mega-menu-column col-md-4">
+                                <li class="uppercase"><div><h5>Actualités</h5></div>
+                                    <li><a href="/fr/news.html">Tous les articles</a></li>
+                                    <li><a href="/podcast.html">Witness Podcast</a></li>
+                                </li>
+                                <!-- <li class="mega-menu-title uppercase"><a href="#">Nouvelles par pays</a></li> -->
+                            </ul>
+                            <ul class="mega-menu-column col-md-4">
                                 <li class="mega-menu-title uppercase"><div><h5>Communiqués de presse</h5></div></li>
                                 {% for post in site.posts %}
                                 {% for tag in post.tags %}
@@ -83,12 +90,7 @@
                                 {% endfor %}
                                 </li>
                             </ul>
-                            <ul class="mega-menu-column col-md-4">
-                                <li class="uppercase"><div><h5>Actualités</h5></div>
-                                    <li><a href="/fr/news.html">Tous les articles</a></li>
-                                </li>
-                                <!-- <li class="mega-menu-title uppercase"><a href="#">Nouvelles par pays</a></li> -->
-                            </ul>
+
                         </div>     
                     </li>
                     
