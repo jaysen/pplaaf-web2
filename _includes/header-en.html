@@ -58,7 +58,14 @@
                         </ul>
                     </li>   
                     <li class="mega-menu mega-menu-small" ><a href="/news.html"><div>News</div></a>
-                        <div class="mega-menu-content style-2 clearfix menu-pos-invert">
+                        <div class="mega-menu-content style-2 clearfix ">
+                            <ul class="mega-menu-column col-md-4">
+                                <li class="mega-menu-title uppercase"><div><h5>News</h5></div>
+                                    <li><a href="/news.html">News Archive Page</a></li>
+                                    <li><a href="/podcast.html">The Witness Podcast Page</a></li>
+                                </li>
+                                <!-- <li class="mega-menu-title uppercase"><a href="#">News by Country</a></li> -->
+                            </ul>
                             <ul class="mega-menu-column col-md-4">
                                 <li class="mega-menu-title uppercase"><div><h5>Press Releases</h5></div></li>
                                 {% for post in site.posts %}
@@ -84,12 +91,7 @@
                                 {% endfor %}
                                 </li>
                             </ul>
-                            <ul class="mega-menu-column col-md-4">
-                                <li class="mega-menu-title uppercase"><div><h5>News</h5></div>
-                                    <li><a href="/news.html">News Archive Page</a></li>
-                                </li>
-                                <!-- <li class="mega-menu-title uppercase"><a href="#">News by Country</a></li> -->
-                            </ul>
+
                         </div>     
                     </li>
 
