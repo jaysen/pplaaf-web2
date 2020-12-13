@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 image: witness_podcast.jpg
 excerpt: PPLAAF launches The Witness - a podcast on the realities of whistleblowing in Africa
  
-tag: [featured, pressrelease, Podcast]
+tag: [featured, Podcast]
 ---
 
 PPLAAF is proud to launch [The Witness](https://www.volume.africa/the-witness), its podcast on the realities of whistleblowing in Africa.
