@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 image: whistle2.jpg
 excerpt: De nouveaux rapports de PPLAAF montrent l’absence de lois progressistes pour protéger les lanceurs d’alerte
 category: fr
-tag: [featured, pressrelease, IvoryCoast, Gambia, Benin, legislation]
+tag: [pressrelease, IvoryCoast, Gambia, Benin, legislation]
 ---
 
 <img class="img-responsive img-post center-block" src="/assets/images/posts/whistle2.jpg"> 

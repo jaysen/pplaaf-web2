@@ -7,7 +7,7 @@ author: PPLAAF
 excerpt_separator: <!--more-->
 image: pic.jpg
 excerpt: South African authorities and companies should support the brave whistleblowers revealing systemic corruption, not harass them
-tag: [featured, pressrelease, SouthAfrica, PIC]
+tag: [pressrelease, SouthAfrica, PIC]
 ---
 
 (Johannesburg, May 2nd) – The case against The Public Investment Corporation’s (PIC) Secretary Bongani Mathebula was a witch-hunt, the Platform to Protect Whistleblowers in Africa (PPLAAF) said today. Bongani Mathebula was company secretary at the PIC, Africa’s largest asset manager. She had been the victim of reprisals and was harassed by her employer who accused her of being a whistleblower.  But Mathebula was later reinstated by the board, indeed even acting as its CEO for a period. [She testified](https://www.youtube.com/watch?v=joR895kBdsE&t=3452s) on Wednesday, April 24th, at a commission investigating the company’s wrongdoings.

@@ -6,7 +6,7 @@ author: PPLAAF
 image: tounsi.jpg
 excerpt_separator: <!--more-->
 excerpt: Noureddine Tounsi subit un harcèlement judiciaire alors que les faits qu’il dénonce font toujours l’objet d’enquêtes
-tag: [featured, pressrelease, Algeria]
+tag: [pressrelease, Algeria]
 category: fr
 ---
 

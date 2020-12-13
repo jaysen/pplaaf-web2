@@ -7,7 +7,7 @@ translated: [English]
 excerpt_separator: <!--more-->
 image: lumumba-l.jpg
 excerpt: Les deux anciens employés de la BGFI avaient subi des représailles après avoir mis en garde leur hiérarchie sur des malversations
-tag: [featured, pressrelease, France, DRC, BGFI]
+tag: [pressrelease, France, DRC, BGFI]
 category: fr
 ---
 
