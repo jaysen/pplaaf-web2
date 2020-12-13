@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-translated: [Français]
+translated: 
 title: PPLAAF launches The Witness - a podcast on the realities of whistleblowing in Africa
 author: PPLAAF
 excerpt_separator: <!--more-->
