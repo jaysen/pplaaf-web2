@@ -17,7 +17,7 @@ Hosted by Fatima Hassan and Produced by [Volume Africa](https://www.volume.afric
 <img class="img-responsive img-post center-block" src="/assets/images/posts/witness_podcast.jpg"> 
 
 
-<div class="top-blockquote">Would you be willing to risk everything in order to stand up against corruption? These are the stories of the men and women who have done just that. They are a collection of brave and courageous whistleblowers who, all over Africa, have risked assassination, unemployment and severe stress in order to call out governments and huge corporations in their wrongdoing.</div>
+<div class="">Would you be willing to risk everything in order to stand up against corruption? These are the stories of the men and women who have done just that. They are a collection of brave and courageous whistleblowers who, all over Africa, have risked assassination, unemployment and severe stress in order to call out governments and huge corporations in their wrongdoing.</div>
 
 
 
