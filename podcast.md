@@ -18,6 +18,16 @@ Hosted by Fatima Hassan and Produced by [Volume Africa](https://www.volume.afric
 ---------
 <br/>
 
+## Episode 2-  Loss
+In episode 2 we are looking at the topic of “loss” from whistleblowers who risked everything and lost a great deal in the process of speaking out. Featuring **Bianca Goodson**, **Johannes Stefansson** and **Professor Thomas Pogge**.
+
+<div style="width: 100%; height:170px; margin-bottom: 20px; border-radius: 10px; overflow:hidden;">
+<iframe style="width: 100%; height:170px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/383b1d0f-456c-43cd-8cc0-69aea9ab5db5"></iframe>
+</div>
+<br/>
+<hr>
+
+
 ## Episode 1- Transformation
 In episode 1 we look at the topic of “transformation” from whistleblower to activist, how speaking out can lead you on a path that changes your whole life forever. Featuring **Andrew Feinstein**, **Jean-Jacques Lumumba** and PPLAAF's director **Henri Thulliez**.
 
