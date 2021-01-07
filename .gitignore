@@ -20,4 +20,5 @@ tmp/*
 node_modules
 _site.zip
 Gemfile.lock
+*code-workspace
 
