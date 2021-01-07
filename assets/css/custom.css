@@ -64,11 +64,17 @@ ul,ol {
 
 
 /* PAGE TITLE */
+
+#page-title {
+    padding: 30px 0;
+}
+
 #page-title.page-title-dark {
     /* background-color: rgb(73, 82, 77); */
     background-color: #118148;
 	text-shadow: 1px 1px 1px rgba(36, 36, 36, 0.582) !important;
-	border-bottom: none;
+    border-bottom: none;
+    padding: 30px 0;
 }
 
 #page-title a {
