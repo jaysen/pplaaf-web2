@@ -6,9 +6,9 @@ type: case
 translated: []
 tags: [Namibia]
 ---
-The Fishrot revelations, disclosed by whistleblower Johannes Stefansson, show how Icelandic fishing company Samherji paid millions of dollars, through tax heavens such as Cyprus and the Marshall Islands, to bribe high level officials in Namibia in exchange for trawling rights. With an annual turnover of $700 million, Samherji is one of the largest fishing companies in the world.
-
 <img class="" style="width:100%;" src="/assets/images/cases/fishrot.jpg">
+
+The Fishrot revelations, disclosed by whistleblower Johannes Stefansson, show how Icelandic fishing company Samherji paid millions of dollars, through tax heavens such as Cyprus and the Marshall Islands, to bribe high level officials in Namibia in exchange for trawling rights. With an annual turnover of $700 million, Samherji is one of the largest fishing companies in the world.
 
 In 2011, Stefansson, then the Director of Operations for Samherji in Namibia, and Adalstein Helgason, former director of Operations in Africa, met Tamson Hatuikulipi, the son-in-law of the newly elected Fisheries Minister. Tamson Hatuikulipi reportedly agreed to help Samherji obtain the fishing quotas the company wanted, in exchange for "quota fees" to be paid to the presidential party and several top Namibian officials and businessmen.
 According to Stefansson, the potential benefits for Samherji of this agreement in Namibia were openly discussed at the company’s annual executive board meeting in March 2012. Millions of dollars in bribes are alleged to have been paid by Samherji for at least four years.
