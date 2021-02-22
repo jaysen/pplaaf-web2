@@ -6,7 +6,7 @@ author: PPLAAF
 image: pressrelease.jpg
 excerpt: Deux plaintes visent les agissements de l’entourage de Dan Gertler contre l’association
 introduction: Deux plaintes visent les agissements de l’entourage de Dan Gertler contre l’association 
-tag: [pressrelease, France, Gertler]
+tag: [featured, pressrelease, France, Gertler]
 category: fr
 ---
 
