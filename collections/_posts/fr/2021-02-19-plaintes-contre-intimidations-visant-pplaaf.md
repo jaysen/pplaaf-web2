@@ -4,12 +4,12 @@ lang: fr
 title: France&#58 Plaintes contre les tentatives d’intimidations visant PPLAAF
 author: PPLAAF
 image: pressrelease.jpg
+excerpt_separator: <!--more-->
 excerpt: Deux plaintes visent les agissements de l’entourage de Dan Gertler contre l’association
 introduction: Deux plaintes visent les agissements de l’entourage de Dan Gertler contre l’association 
-tag: [featured, pressrelease, France, Gertler]
+tag: [featured, pressrelease, France, DRC]
 category: fr
 ---
-
 **Deux plaintes visent les agissements de l’entourage de Dan Gertler contre l’association**
 
 (Paris, le 18 février 2021) – Le 15 décembre 2021, PPLAAF a déposé une plainte pour entraves à la liberté d’expression et d’association, atteintes à la vie privée et dénonciation calomnieuse devant le parquet de Paris. La plainte demande l’ouverture d’une enquête préliminaire portant sur les actes de représailles ayant visé [Global Witness](https://www.globalwitness.org/fr/undermining-sanctions-fr/) et [PPLAAF](https://www.pplaaf.org/fr/2020/07/02/billionaire_laundering_drc.html), les auteurs du rapport _« [Des Sanctions, Mine de Rien](https://www.pplaaf.org/downloads/business_as_usualFR.pdf) »_ publié le 2 juillet 2020, a déclaré la Plateforme de protection des lanceurs d’alerte aujourd’hui (PPLAAF). 
