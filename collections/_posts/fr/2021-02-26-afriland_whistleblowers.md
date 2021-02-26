@@ -29,7 +29,7 @@ Les révélations, auxquelles ont participé Bloomberg, RFI, Haaretz, Africa Con
 
 Le 15 janvier 2021, l’administration Trump a discrètement [octroyé](https://www.nytimes.com/2021/01/24/us/politics/dan-gertler-sanctions.html) une licence permettant à Gertler et ses sociétés d’accéder au système financier américain jusqu’au 31 janvier 2022. Cette mesure de dernière minute du gouvernement américain levant de fait, pendant une année, les sanctions imposées au milliardaire israélien Dan Gertler, s’est attirée les critiques de [membres](https://foreignaffairs.house.gov/_cache/files/d/a/da86c108-6999-44e8-acc9-720a6fc4b433/1A99E0DFF0E3A8BF8E4F623DC89DC1C2.2-3-2021.-meeks-bass-himes-letter-to-secretary-yellen-re-dan-gertler.pdf) du Congrès américain et de 30 [ONG](https://www.hrw.org/fr/news/2021/02/03/lettre-conjointe-aux-etats-unis-sur-la-licence-de-dan-gertler) congolaises et internationales.
 
-Les révélations montrent également que d’importants politiciens congolais, ainsi que des institutions congolaises, utilisaient Afriland. Leurs comptes montrent des mouvements allant parfois jusqu’à plusieurs millions de dollars en espèces. Richad Muyej, gouverneur du Lualaba, a retiré des centaines de millions de dollars en liquide. En 2018 et 2019, des millions ont aussi été retirés du compte du Sénat congolais, en plein processus électoral.
+Les révélations montrent également que d’importants politiciens congolais, ainsi que des institutions congolaises, utilisaient Afriland. Leurs comptes montrent des mouvements allant parfois jusqu’à plusieurs millions de dollars en espèces. 
 
 Plusieurs sociétés soupçonnées d’appartenir à des financiers du Hezbollah, donc certaines sous sanctions américaines, ont également eu des comptes actifs à Afriland.
 

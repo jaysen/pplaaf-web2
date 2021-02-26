@@ -28,7 +28,7 @@ The revelations, covered in publications by Bloomberg, RFI, Haaretz, Africa Conf
 
 On January 15, 2021, the Trump administration quietly granted a [license](https://www.nytimes.com/2021/01/24/us/politics/dan-gertler-sanctions.html) allowing Gertler and his companies access to the U.S. financial system until January 31, 2022. The U.S. government's last-minute measure effectively lifting sanctions imposed on Israeli billionaire Dan Gertler for a year and immediately drew criticism from [members](https://foreignaffairs.house.gov/_cache/files/d/a/da86c108-6999-44e8-acc9-720a6fc4b433/1A99E0DFF0E3A8BF8E4F623DC89DC1C2.2-3-2021.-meeks-bass-himes-letter-to-secretary-yellen-re-dan-gertler.pdf) of the U.S. Congress and 30 Congolese and international [NGOs](https://www.hrw.org/fr/news/2021/02/03/lettre-conjointe-aux-etats-unis-sur-la-licence-de-dan-gertler).
 
-The revelations also show that important Congolese politicians and political institutions also held accounts at Afriland. Their accounts show movements sometimes up to several million dollars in cash. Richad Muyej, governor of Lualaba, withdrew hundreds of millions of dollars in cash. In 2018 and 2019, millions have been withdrawn from the Congolese Senate account, in the middle of the electoral process.
+The revelations also show that important Congolese politicians and political institutions also held accounts at Afriland. Their accounts show movements sometimes up to several million dollars in cash.
 
 Several companies suspected of belonging to Hezbollah financiers, some under US sanctions, have also held active accounts in Afriland.
 
