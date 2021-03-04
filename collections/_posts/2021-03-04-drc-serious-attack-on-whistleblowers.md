@@ -5,13 +5,15 @@ translated: [Français]
 title: DRC - Extremely serious attacks on whistleblowers, the press and civil society
 author: PPLAAF
 excerpt_separator: <!--more-->
-image: pressrelease.jpg
+image: afriland2.jpg
 excerpt: Revelations about a Congolese bank and a sanctioned businessman lead to a wave of attacks targeting the defenders of public interest.
 intro: Revelations about a Congolese bank and a sanctioned businessman lead to a wave of attacks targeting the defenders of public interest.
 tag: [featured, pressrelease, DRC]
 ---
 
 **Revelations about a Congolese bank and a sanctioned businessman lead to a wave of attacks targeting the defenders of public interest.**
+
+<img class="img-responsive img-post center-block" src="/assets/images/posts/afriland2.jpg"> 
 
 **(Paris, March 4th, 2021)** - Investigations made public recently by media and NGOs, based on documents transmitted by courageous whistleblowers, have provoked a wave of retaliatory acts of rare intensity, the Platform to Protect Whistleblowers in Africa ([PPLAAF](https://pplaaf.org)) said today. These attacks reached a climax when a death sentence for the whistleblowers was handed down by judges in the Democratic Republic of Congo (DRC) following a farcical process. 
 
