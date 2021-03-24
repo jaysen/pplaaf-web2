@@ -5,7 +5,7 @@ translated: []
 title: South Africa - Whistleblower testifies to fraudulent behavior of a major consulting company
 author: PPLAAF
 excerpt_separator: <!--more-->
-image: afriland2.jpg
+image: pressrelease.jpg
 excerpt: Whistleblower Atholl Williams’ testimony shows Bain &amp; Company enabled the dismantling of a government agency
 intro: Whistleblower Atholl Williams’ testimony shows Bain &amp; Company enabled the dismantling of a government agency.
 tag: [featured, pressrelease, SouthAfrica]
