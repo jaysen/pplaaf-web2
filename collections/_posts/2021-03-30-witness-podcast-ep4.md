@@ -2,7 +2,7 @@
 layout: post
 lang: en
 translated: 
-title: Witness Podcast Episode 04 on Evidence Airs
+title: Witness Podcast Episode 04&#58 Evidence
 author: PPLAAF
 excerpt_separator: <!--more-->
 image: witness_podcast.jpg
@@ -13,8 +13,7 @@ tag: [featured, Podcast]
 
 <img class="img-responsive img-post center-block" src="/assets/images/posts/witness_podcast.jpg"> 
 
-Catch the latest episode of [The Witness](https://www.pplaaf.org/podcast.html) 
-Hosted by Fatima Hassan and Produced by [Volume Africa](https://www.volume.africa)
+Catch the latest episode of [The Witness](https://www.pplaaf.org/podcast.html) below. Hosted by Fatima Hassan and Produced by [Volume Africa](https://www.volume.africa)
 
 ---------
 <br/>
