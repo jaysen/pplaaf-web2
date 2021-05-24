@@ -22,13 +22,13 @@ This commission led to the discovery of an extremely well-structured mafia netwo
 
 The expert report ended up on the table of the board of directors of MIBA. Following this report, François Sangani was dismissed. 
 
-The multiple denunciations of Claude Mianziula allowed, in July 2019, to launch judicial investigations on the existing malpractices within the mining company. 
+The multiple denunciations of Claude Mianziula allowed, in July 2019, the launch of judicial investigations on the existing malpractices within the mining company. 
 
 
 ## Judicial intimidation attempts
 
 In an attempt to hush up the affair, [legal action](https://www.rfi.fr/fr/afrique/20200723-rdc-le-procès-vol-présumé-diamant-fancy-green-souvre-accusé) was taken against Mianziula. A complaint for defamatory statements and public insults was filed by Mrs. Linda Kabu Mukendi, a MIBA employee and wife of Mr. Jean Claude Mampuya, MIBA’s financial director.  
-
+    
 Following this complaint, Claude Mianziula was arrested on July 4, 2020 and detained in prison for 55 days. [Acquitted](https://www.dw.com/fr/rdc-le-lanceur-dalerte-de-la-miba-est-libre/a-54740486?maca=fra-rss-twitter-all-21591-xml-mrss) by the Prosecutor's Office of Mbujimayi in Kasai Oriental on August 28, 2020, Mianziula was released. However, he was still fined $1,500 for public insults against the financial director of the Bakwanga mining company, who was not a complainant. 
 
 Although the board of directors had to demand the dismissal of two agents incriminated in the theft of the fancy green diamond, the mining company denied the existence of the said "Fancy Green" diamond throughout the trial that followed. The trial resulted in the [conviction of the head of the diamond grading department](https://congovirtuel.com/information/tag/proces-fancy-green/) of MIBA who was found guilty of the theft on September 18, 2020. Sentenced to two years in prison as well as the reimbursement of the price of the stone to the company in the first instance, he was however [acquitted](https://coulisses.net/kasai-oriental-acquittement-du-principal-accuse-dans-le-vol-du-diamant-fancy-green-de-la-miba/) before the Court of Appeal of Mbujimayi on November 25, 2020.
