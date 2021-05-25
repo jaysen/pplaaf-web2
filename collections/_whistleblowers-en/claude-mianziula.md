@@ -22,7 +22,7 @@ This commission led to the discovery of an extremely well-structured mafia netwo
 
 The expert report ended up on the table of the board of directors of MIBA. Following this report, François Sangani was dismissed. 
 
-The multiple denunciations of Claude Mianziula allowed, in July 2019, the launch of judicial investigations on the existing malpractices within the mining company. 
+In July 2019, Claude Mianziula's revelations led to judicial investigations on the existing malpractices within the mining company.
 
 
 ## Judicial intimidation attempts
