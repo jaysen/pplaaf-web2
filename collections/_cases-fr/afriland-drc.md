@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: page
 lang: fr
 translated: [English]
 title: Afriland Révélations 
 author: PPLAAF
 excerpt_separator: <!--more-->
-image: afriland2.0
+image: afriland2.jpg
 tag: [DRC]
 category: fr
 type: case

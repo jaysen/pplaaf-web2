@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 lang: en
 translated: [Français]
 title: Afriland Revelations
