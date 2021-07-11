@@ -2,13 +2,17 @@
 layout: post
 lang: fr
 translated: [English]
-title: Les Révélations de Deux Lanceurs D’alerte sur les Pratiques Inquiétantes d’une Banque Congolaise
+title: Afriland Révélations 
 author: PPLAAF
 excerpt_separator: <!--more-->
-image: afriland2.jpg
-tag: [featured, pressrelease, DRC]
+image: afriland2.0
+tag: [DRC]
 category: fr
+type: case
+excerpt: Les Révélations de Deux Lanceurs D’alerte sur les Pratiques Inquiétantes d’une Banque Congolaise
 ---
+
+<h2>Les Révélations de Deux Lanceurs D’alerte sur les Pratiques Inquiétantes d’une Banque Congolaise</h2>
 
 [Le 2 juillet 2020](https://www.pplaaf.org/cases/gertler-revelations.html), des documents bancaires recueillis puis transmis par les lanceurs d’alerte Gradi Koko Lobanga et Navy Malela Mawani avaient permis à Global Witness et à PPLAAF de révéler publiquement l’utilisation d’Afriland First Bank CD par le milliardaire Dan Gertler, pour contourner les sanctions américaines à son encontre, dans le rapport « [Des sanctions, mine de rien](https://www.pplaaf.org/downloads/business_as_usualFR.pdf) ».
 

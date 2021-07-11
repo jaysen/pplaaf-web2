@@ -2,13 +2,16 @@
 layout: post
 lang: en
 translated: [Français]
-title: The Disclosures of Two Whistleblowers on the Troubling Practices of a Congolese Bank
+title: Afriland Revelations
 author: PPLAAF
 excerpt_separator: <!--more-->
 image: afriland2.jpg
-excerpt: Bank documents reveal the use of Afriland First Bank CD by billionaire Dan Gertler to bypass US sanctions
-tag: [featured, pressrelease, DRC]
+excerpt: The Disclosures of Two Whistleblowers on the Troubling Practices of a Congolese Bank
+tag: [DRC]
+type: case
 ---
+
+<h2>The Disclosures of Two Whistleblowers on the Troubling Practices of a Congolese Bank</h2>
 
 On [July 2nd, 2020](https://www.pplaaf.org/cases/gertler-revelations.html), bank documents collected and then transmitted by the whistleblowers Gradi Koko Lobanga and Navy Malela Mawani had allowed Global Witness and PPLAAF to publicly reveal the use of Afriland First Bank CD by billionaire Dan Gertler to bypass US sanctions against him in the report « [Undermining Sanctions](https://www.pplaaf.org/downloads/business_as_usualFR.pdf) ».
 
