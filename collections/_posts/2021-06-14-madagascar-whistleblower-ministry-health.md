@@ -47,8 +47,7 @@ Website: <https://www.pplaaf.org>
 
 ### Contact us :
 
-- Gabriel Bourdon, Project coordinator 
-    [gabriel@pplaaf.org](mailto:gabriel@pplaaf.org)
+- Gabriel Bourdon, Project coordinator: [gabriel@pplaaf.org](mailto:gabriel@pplaaf.org)
 
 
 
