@@ -58,7 +58,7 @@ Lumumba revealed in the press that the [bank claimed their interest twice a mont
 ## For additional information:
 
 ### PPLAAF:
-- [The Lumumba Papers: from bank statements to President Kabila’s wild animals](http://lumumbapapers.info/){:target="_blank"}, July 12 th , 2017  
+- [The Lumumba Papers: from bank statements to President Kabila’s wild animals](https://lumumbapapers.info/){:target="_blank"}, July 12 th , 2017  
 - "[RDC : Nouvelles révélations sur des sociétés appartenant à des proches de Kabila](https://pplaaf.org/fr/2017/07/12/rdc-Nouvelles-revelations.html){:target="_blank"}", July
 12th, 2017
 

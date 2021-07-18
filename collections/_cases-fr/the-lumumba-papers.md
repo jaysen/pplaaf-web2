@@ -60,7 +60,7 @@ Lumumba a révélé dans la presse que la banque
 ## For additional information:
 
 ### PPLAAF:
-- [L’histoire des Lumumba Papers : des relevés bancaires aux animaux sauvages du président Kabila](http://lumumbapapers.info/){:target="_blank"}, 12 juillet 2017
+- [L’histoire des Lumumba Papers : des relevés bancaires aux animaux sauvages du président Kabila](https://lumumbapapers.info/){:target="_blank"}, 12 juillet 2017
 - « [RDC : Nouvelles révélations sur des sociétés appartenant à des proches de Kabila](https://pplaaf.org/fr/2017/07/12/rdc-Nouvelles-revelations.html){:target="_blank"} », 12 juillet 2017
 
 ### Le Soir:
