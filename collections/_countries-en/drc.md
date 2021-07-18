@@ -2,6 +2,7 @@
 layout: page-full
 lang: en
 title: Democratic Republic of the Congo 
+subtitle: PPLAAF DRC Report July 2021
 translated: [Français]
 ---
 
