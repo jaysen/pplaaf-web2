@@ -1,5 +1,0 @@
----
-name: Mathieu Kassovitz
-image: kassovitz.jpg
----
-Mathieu Kassovitz est un acteur, scénariste, réalisateur et producteur français. Il a notamment joué dans Regarde les hommes tomber (1994), pour lequel il a reçu le prix César de l'acteur le plus prometteur, Le Fabuleux Destin d'Amélie Poulain (2001), Amen (2002), Un illustre inconnu (2014). Il a reçu le César du meilleur film et du meilleur montage pour le film La Haine (1995) qu'il a réalisé. Il a également réalisé Les rivières pourpres (2000), Gothika (2003), L’Ordre et la Morale (2011). Il a joué un agent de la Direction générale de la sécurité extérieure, l'agence française de renseignement extérieur, dans la série télévisée française Le Bureau des légendes depuis 2015, et Napoléon Bonaparte dans la série télévisée anglo-américaine War & Peace en 2016. En 2017, il est apparu dans un court métrage lié à une campagne de sensibilisation du Collectif pour une nation-refuge qui regroupe différentes associations impliquées dans la défense et l'accueil des migrants en France.
