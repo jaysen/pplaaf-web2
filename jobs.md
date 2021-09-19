@@ -5,9 +5,7 @@ title: Job Postings
 translated: 
 ---
 
-PPLAAF is advertising the following job postings. 
-
-Please send CV (with at least two references), cover letter and writing sample to [gabriel@pplaaf.org](mailto:gabriel@pplaaf.org) by
+PPLAAF is advertising the following job postings. Please send CV (with at least two references), cover letter and writing sample to [gabriel@pplaaf.org](mailto:gabriel@pplaaf.org) by
 October 10th, 2021.
 
 ## PPLAAF seeks an Administration and Communication officer (Paris office) 
