@@ -1,0 +1,5 @@
+---
+name: Anna Myers
+image: myers.jpg
+---
+**Anna Myers** is the founding Executive Director of the Whistleblowing International Network ([WIN](http://www.whistleblowingnetwork.org/)), a network to strengthen civil society organisations that defend and support whistleblowers around the world.  Anna has worked in the field of whistleblowing law and practice for 21 years. Anna is originally from Canada and is a qualified UK lawyer.  She was Deputy Director of Public Concern at Work (now called Protect) in London and worked for the Group of States against Corruption (GRECO) in Strasbourg. She advised the Council of Europe's Committee on Legal Cooperation (CDCJ) on the 2014 [_CM_ _Recommendation on the protection of whistleblowers_](https://rm.coe.int/16807096c7) _and_ drafted the UNODC [_Resource Guide on good practices in the protection of reporting persons_](https://www.unodc.org/documents/corruption/Publications/2015/15-04741_Person_Guide_eBook.pdf)_._ Under her leadership, WIN helped secure [an EU Directive to protect whistleblowers](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32019L1937).
