@@ -5,7 +5,8 @@ title: Job Postings
 translated: 
 ---
 
-PPLAAF is advertising for the following postings. 
+PPLAAF is advertising the following job postings. 
+
 Please send CV (with at least two references), cover letter and writing sample to [gabriel@pplaaf.org](mailto:gabriel@pplaaf.org) by
 October 10th, 2021.
 
