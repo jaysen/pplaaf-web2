@@ -3,7 +3,6 @@ layout: post
 lang: fr
 translated: [English]
 title: Procédures baillons contre les ONG&#58 Afriland First Bank et consorts aux abois
-subtitle: Malgré les déconvenues judiciaires, les personnes identifiées par les enquêtes de PPLAAF et Global Witness s’entêtent
 author: PPLAAF
 excerpt_separator: <!--more-->
 image: afriland.jpg
@@ -11,6 +10,8 @@ excerpt: Malgré les déconvenues judiciaires, les personnes identifiées par le
 tag: [featured, pressrelease, DRC]
 category: fr
 ---
+
+**Malgré les déconvenues judiciaires, les personnes identifiées par les enquêtes de PPLAAF et Global Witness s’entêtent**
 
 **(Paris, le 10 novembre 2021)** – Depuis la publication du rapport de PPLAAF et Global Witness « [Des Sanctions, Mine de Rien](https://www.pplaaf.org/fr/2020/07/02/billionaire_laundering_drc.html) » en juillet 2020, plusieurs personnes et entités, dont M. Dan Gertler et Afriland First Bank, s’acharnent, en raison de leurs échecs judiciaires et des informations divulguées, contre les deux organisations, a déclaré la Plateforme de Protection des Lanceurs d’Alerte ([PPLAAF](https://us17.admin.mailchimp.com/templates/pplaaf.org)) aujourd’hui. Depuis la publication du rapport, pas moins de sept plaintes ont visé les deux organisations.
 
