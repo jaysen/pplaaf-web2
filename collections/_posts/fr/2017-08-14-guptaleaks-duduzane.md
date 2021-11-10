@@ -2,7 +2,6 @@
 layout: post
 lang: fr
 title: GuptaLeaks&#58; Duduzane Zuma, fils du président sud-africain et pièce maîtresse de la famille Gupta
-subtitle: Malgré les déconvenues judiciaires, les personnes identifiées par les enquêtes de PPLAAF et Global Witness s’entêtent
 author: 
 origin: de <a href="http://www.lemonde.fr/afrique/article/2017/07/25/guptaleaks-duduzane-zuma-fils-du-president-sud-africain-et-piece-maitresse-de-la-famille-gupta_5164755_3212.html" target="_blank">Le Monde</a>
 excerpt_separator: <!--more-->

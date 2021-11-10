@@ -3,6 +3,7 @@ layout: post
 lang: fr
 translated: [English]
 title: Procédures baillons contre les ONG&#58 Afriland First Bank et consorts aux abois
+subtitle: Malgré les déconvenues judiciaires, les personnes identifiées par les enquêtes de PPLAAF et Global Witness s’entêtent
 author: PPLAAF
 excerpt_separator: <!--more-->
 image: afriland.jpg
