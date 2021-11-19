@@ -2,10 +2,10 @@
 layout: post
 lang: en
 translated: [Français]
-title: Congo Hold-up&#58 - Africa’s biggest leak reveals massive corruption in DRC and beyond
+title: Congo Hold-up&#58 Africa’s biggest leak reveals massive corruption in DRC and beyond
 author: PPLAAF
 excerpt_separator: <!--more-->
-image: afriland2.jpg
+image: 
 excerpt: Former President Kabila’s inner circle and DRC elites embezzled public funds thanks to BGFIBank
 intro: Former President Kabila’s inner circle and DRC elites embezzled public funds thanks to BGFIBank
 tag: [featured, pressrelease, DRC]
