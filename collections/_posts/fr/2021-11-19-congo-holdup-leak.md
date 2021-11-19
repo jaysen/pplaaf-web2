@@ -5,7 +5,7 @@ translated: [English]
 title: Congo Hold-up&#58 le plus grand leak d’Afrique révèle un détournement massif en RDC et au-delà
 author: PPLAAF
 excerpt_separator: <!--more-->
-image: afriland.jpg
+image: chu.jpeg
 excerpt: Congo Hold-up&#58
 tag: [featured, pressrelease, DRC]
 category: fr
@@ -56,7 +56,7 @@ Pour plus d’informations sur Congo Hold-up, visitez le site de l’enquête : 
 
 
 Média :
--	Avec le réseau EIC : Mediapart (France), De Standaard et Le Soir (Belgique), NRC (Pays-Bas), Der Spiegel (Allemagne), infoLibre (Espagne), Politiken (Danemark), Expresso (Portugal), VG (Norvège), Nacional (Croatie), RCIJ (Roumanie)
+-	Avec le réseau [EIC network](https://eic.network/) : Mediapart (France), [De Standaard ](https://www.standaard.be/) et [Le Soir](https://www.lesoir.be/) (Belgique), NRC (Pays-Bas), Der Spiegel (Allemagne), infoLibre (Espagne), Politiken (Danemark), Expresso (Portugal), VG (Norvège), Nacional (Croatie), RCIJ (Roumanie)
 - Bloomberg (États-Unis)
 - RFI - Radio France Internationale (France)
 - L’Orient le Jour (Liban)

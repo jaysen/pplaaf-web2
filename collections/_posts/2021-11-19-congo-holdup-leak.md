@@ -5,7 +5,7 @@ translated: [Français]
 title: Congo Hold-up&#58 Africa’s biggest leak reveals massive corruption in DRC and beyond
 author: PPLAAF
 excerpt_separator: <!--more-->
-image: 
+image: chu.jpeg
 excerpt: Former President Kabila’s inner circle and DRC elites embezzled public funds thanks to BGFIBank
 intro: Former President Kabila’s inner circle and DRC elites embezzled public funds thanks to BGFIBank
 tag: [featured, pressrelease, DRC]
@@ -57,7 +57,7 @@ For more information, please contact:
 
 
 Media:
--	With the [EIC network](https://eic.network/): [Mediapart](https://www.mediapart.fr/en/english) (France), [De Standaard ](https://www.standaard.be/)and [Le Soir](https://www.lesoir.be/) (Belgium), [NRC](https://www.nrc.nl/) (Netherlands), [Der Spiegel](https://www.spiegel.de/) (Germany), [infoLibre](https://www.infolibre.es/) (Spain), [Politiken](https://politiken.dk/) (Denmark), [Expresso](https://expresso.pt/) (Portugal), [VG](https://www.vg.no/) (Norway), [Nacional](https://www.nacional.hr/) (Croatia), RCIJ (Romania)
+-	With the [EIC network](https://eic.network/): [Mediapart](https://www.mediapart.fr/en/english) (France), [De Standaard ](https://www.standaard.be/) and [Le Soir](https://www.lesoir.be/) (Belgium), [NRC](https://www.nrc.nl/) (Netherlands), [Der Spiegel](https://www.spiegel.de/) (Germany), [infoLibre](https://www.infolibre.es/) (Spain), [Politiken](https://politiken.dk/) (Denmark), [Expresso](https://expresso.pt/) (Portugal), [VG](https://www.vg.no/) (Norway), [Nacional](https://www.nacional.hr/) (Croatia), RCIJ (Romania)
 - [Bloomberg](https://www.bloomberg.com/) (USA)
 - [RFI - Radio France Internationale](https://www.rfi.fr/en/)(France)
 - [L'Orient le Jour](https://today.lorientlejour.com/) (Lebanon)
