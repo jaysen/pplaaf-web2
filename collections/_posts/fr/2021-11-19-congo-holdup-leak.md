@@ -12,9 +12,9 @@ category: fr
 ---
 
 
-(Paris, 19 novembre 2021) Plus de 3,5 millions de documents de la BGFIBank révèlent comment la banque a ouvert la porte du système bancaire international à des réseaux suspects et a été utilisée par ceux qui ont cherché à corrompre les autorités de la Répubique Démocratique du Congo (RDC), a déclaré la Plateforme de protection des lanceurs d'alerte en Afrique (PPLAAF) aujourd'hui.
+(Paris, 19 novembre 2021) Plus de 3,5 millions de documents de la BGFIBank révèlent comment la banque a ouvert la porte du système bancaire international à des réseaux suspects et a été utilisée par ceux qui ont cherché à corrompre les autorités de la Répubique Démocratique du Congo (RDC), a déclaré la Plateforme de protection des lanceurs d'alerte en Afrique ([PPLAAF](https://www.pplaaf.org/)) aujourd'hui.
  
-Les documents ont été obtenus par PPLAAF et Mediapart puis partagés avec le European Investigative Collaborations (EIC), des organisations non gouvernementales et des médias dans le cadre d'un consortium d’enquête pour l’intérêt général sans précédent, baptisé « Congo Hold-up ». Près de 100 contributeurs de 18 pays, travaillant avec 19 médias et 5 organisations, ont analysé les documents.
+Les documents ont été obtenus par PPLAAF et [Mediapart](https://www.mediapart.fr/) puis partagés avec le European Investigative Collaborations ([EIC](https://eic.network/)), des organisations non gouvernementales et des médias dans le cadre d'un consortium d’enquête pour l’intérêt général sans précédent, baptisé « [Congo Hold-up](https://congoholdup.com/) ». Près de 100 contributeurs de 18 pays, travaillant avec 19 médias et 5 organisations, ont analysé les documents.
  
 Les documents de Congo Hold-up sont composés de millions de relevés bancaires, courriels, contrats, factures et des dossiers d’entreprise. Les documents comprennent également les détails de millions de transactions bancaires. 
 
@@ -26,7 +26,7 @@ Comme le révèle Mediapart, les enquêtes montrent qu’au moins 138 millions d
  
 Le groupe bancaire BGFI, qui est connu pour son histoire trouble marquée par des affaires de corruption impliquant des autocrates et des entreprises européennes, a facilité des stratagèmes frauduleux pour des hommes d’affaires, des politiciens, des financiers présumés du Hezbollah et d’autres.
  
-Les enquêtes de The Sentry montrent que les propriétaires chinois de mines de cuivre et de cobalt ont utilisé la BGFIBank pour acheminer des millions de dollars à des individus, et à des entreprises, directement liés à l’entourage de Kabila.
+Les enquêtes de [The Sentry](https://thesentry.org/) montrent que les propriétaires chinois de mines de cuivre et de cobalt ont utilisé la BGFIBank pour acheminer des millions de dollars à des individus, et à des entreprises, directement liés à l’entourage de Kabila.
  
 Ces manœuvres n’ont été possibles qu’avec la négligence et l'échec total des procédures de due diligence de multiples acteurs, dont des banques internationales et des sociétés d'audit.
  
@@ -36,23 +36,23 @@ Les partenaires impliqués dans Congo Hold-up publieront au cours des prochaines
  
  « Avec ces nouvelles révélations, il est grand temps que les autorités congolaises et internationales lancent de véritables enquêtes sur ces pratiques qui ont porté préjudice à la population congolaise », a déclaré Jean-Claude Mputu, porte-parole de la campagne Le Congo n'est pas à vendre.  « Nous devons mettre fin à ce cercle vicieux d'impunité pour les crimes financiers ».
  
-La Plateforme de protection des lanceurs d’alerte en Afrique (PPLAAF) est une organisation non gouvernementale créée en 2017. PPLAAF vise à défendre les lanceurs d'alerte, ainsi qu'à mener du plaidoyer et engager des contentieux stratégiques en leur nom lorsque leurs révélations traitent de l'intérêt général des citoyens Africains.
+La Plateforme de protection des lanceurs d’alerte en Afrique ([PPLAAF](https://www.pplaaf.org/) ) est une organisation non gouvernementale créée en 2017. PPLAAF vise à défendre les lanceurs d'alerte, ainsi qu'à mener du plaidoyer et engager des contentieux stratégiques en leur nom lorsque leurs révélations traitent de l'intérêt général des citoyens Africains.
 
 Pour plus d’informations sur Congo Hold-up, visitez le site de l’enquête : https://congoholdup.com
 
-Pour plus d’informations sur PPLAAF, veuillez visiter :
-Site de PPLAAF : https://pplaaf.org
-Facebook : https://www.facebook.com/PPLAAF/
-Twitter : @pplaaf 
-Courriel : Info@pplaaf.org
+**Pour plus d’informations sur PPLAAF, veuillez visiter :**
+- Site de PPLAAF : https://pplaaf.org
+- Facebook : https://www.facebook.com/PPLAAF/
+- Twitter : @pplaaf 
+- Courriel : Info@pplaaf.org
 
-Pour de plus amples renseignements, contacter :
-Henri Thulliez, directeur de PPLAAF (Français, anglais) : henri.thulliez@gmail.com ou +33-6-58-01-61-96
-Gabriel Bourdon- Fattal, Chef de projet de PPLAAF (Français, anglais, hébreu) : gabriel@pplaaf.org ou +33-6-58-01-61-96
-Jean-Claude Mputu, porte-parole du Congo n’est pas à vendre (Français): jcmputu@gmail.com ou +32 498 38 11 39
+**Pour de plus amples renseignements, contacter :**
+- Henri Thulliez, directeur de PPLAAF (Français, anglais) : henri.thulliez@gmail.com ou +33-6-58-01-61-96
+- Gabriel Bourdon- Fattal, Chef de projet de PPLAAF (Français, anglais, hébreu) : gabriel@pplaaf.org ou +33-6-58-01-61-96
+- Jean-Claude Mputu, porte-parole du Congo n’est pas à vendre (Français): jcmputu@gmail.com ou +32 498 38 11 39
 
 
-Partenaires de Congo Hold-up :
+## Partenaires de Congo Hold-up :
 
 
 Média :
