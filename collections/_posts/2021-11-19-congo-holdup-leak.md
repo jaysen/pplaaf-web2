@@ -41,16 +41,16 @@ In the coming weeks, Congo Hold-up partners around the world will publish storie
 
 For more information on Congo Hold-up, please visit the investigation’s website:  https://congoholdup.com 
 
-## For more information on PPLAAF, please visit:
-PPLAAF’s website: <https://pplaaf.org> 
-Facebook: <https://www.facebook.com/PPLAAF/> 
-Twitter: [@pplaaf](https://twitter.com/PPLAAF) 
-Email: Info@pplaaf.org
+**For more information on PPLAAF, please visit:**
+- PPLAAF’s website: <https://pplaaf.org> 
+- Facebook: <https://www.facebook.com/PPLAAF/> 
+- Twitter: [@pplaaf](https://twitter.com/PPLAAF) 
+- Email: Info@pplaaf.org
 
 For more information, please contact:
-Henri Thulliez, PPLAAF director (French, English): henri.thulliez@gmail.com or +33-6-58-01-61-96
-Gabriel Bourdon- Fattal, PPLAAF Project manager (French, English, Hebrew): gabriel@pplaaf.org or +33-6-58-01-61-96
-Jean-Claude Mputu, Congo is not for sale spokesperson (French): jcmputu@gmail.com or +32 498 38 11 39
+- Henri Thulliez, PPLAAF director (French, English): henri.thulliez@gmail.com or +33-6-58-01-61-96
+- Gabriel Bourdon- Fattal, PPLAAF Project manager (French, English, Hebrew): gabriel@pplaaf.org or +33-6-58-01-61-96
+- Jean-Claude Mputu, Congo is not for sale spokesperson (French): jcmputu@gmail.com or +32 498 38 11 39
 
 
 ## List of Congo Hold-up partners:
