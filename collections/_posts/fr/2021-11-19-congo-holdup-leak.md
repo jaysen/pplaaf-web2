@@ -55,21 +55,21 @@ Pour plus d’informations sur Congo Hold-up, visitez le site de l’enquête : 
 ## Partenaires de Congo Hold-up :
 
 
-Média :
--	Avec le réseau [EIC network](https://eic.network/) : Mediapart (France), [De Standaard ](https://www.standaard.be/) et [Le Soir](https://www.lesoir.be/) (Belgique), NRC (Pays-Bas), Der Spiegel (Allemagne), infoLibre (Espagne), Politiken (Danemark), Expresso (Portugal), VG (Norvège), Nacional (Croatie), RCIJ (Roumanie)
-- Bloomberg (États-Unis)
-- RFI - Radio France Internationale (France)
-- L’Orient le Jour (Liban)
-- BBC Africa Eye (Royaume-Uni)
-- KvF (Îles Féroé) 
-- The Namibian (Namibie)
-- The Continent (Afrique du Sud)
-- The Wire (Inde)
+### Média :
+-	Avec le réseau [EIC network](https://eic.network/) : Mediapart (France), [De Standaard ](https://www.standaard.be/) et [Le Soir](https://www.lesoir.be/) (Belgium), [NRC](https://www.nrc.nl/) (Netherlands), [Der Spiegel](https://www.spiegel.de/) (Germany), [infoLibre](https://www.infolibre.es/) (Spain), [Politiken](https://politiken.dk/) (Denmark), [Expresso](https://expresso.pt/) (Portugal), [VG](https://www.vg.no/) (Norway), [Nacional](https://www.nacional.hr/) (Croatia), RCIJ (Romania)
+- [Bloomberg](https://www.bloomberg.com/) (USA)
+- [RFI - Radio France Internationale](https://www.rfi.fr/en/)(France)
+- [L'Orient le Jour](https://today.lorientlejour.com/) (Lebanon)
+- [BBC Africa Eye ](https://www.bbc.co.uk/programmes/n27vnqnt)(UK)
+- [KvF](https://kvf.fo/) (Faeroe Islands)
+- [The Namibian](https://www.namibian.com.na/) (Namibia)
+- [The Continent](https://mg.co.za/thecontinent/) (South Africa)
+- [The Wire](https://thewire.in/) (India)
  
-ONG :
-- PPLAAF
-- Public Eye
-- The Sentry
-- Resource Matters 
-- Congo Research Group 
+### ONG :
+- [PPLAAF](https://www.pplaaf.org/)
+- [Public Eye](https://www.publiceye.ch/en/)
+- [The Sentry](https://thesentry.org/)
+- [Resource Matters](https://resourcematters.org/)
+- [Congo Research Group](https://congoresearchgroup.org/)
 
