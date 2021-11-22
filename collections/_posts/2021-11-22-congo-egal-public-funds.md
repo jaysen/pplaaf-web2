@@ -2,7 +2,7 @@
 layout: post
 lang: en
 translated: [Français]
-title: Congo Hold-up&#58 Congo's top food importer received millions in public funds through ‘mafia bank’
+title: Congo's top food importer received millions in public funds through ‘mafia bank’
 author: PPLAAF
 excerpt_separator: <!--more-->
 image: fishy-egal-s.jpg
@@ -10,7 +10,6 @@ excerpt: The company Egal was managed and owned by former President Kabila’s i
 intro: The company Egal was managed and owned by former President Kabila’s inner circle
 tag: [featured, pressrelease, DRC]
 ---
-
 
 (Paris, November 22nd, 2021) One of the Democratic Republic of Congo's (DRC) most important food importers, Egal, used BGFIBank DRC to pay millions of dollars to accounts linked to former President Joseph Kabila during his time in office, said in a report the Platform to Protect Whistleblowers in Africa (PPLAAF) today. The [report](https://www.pplaaf.org/downloads/fishy.pdf) by [PPLAAF](https://www.pplaaf.org) is part of the [Congo Hold-up](https://congoholdup.com) investigations.
 
