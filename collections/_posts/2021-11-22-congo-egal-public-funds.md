@@ -17,7 +17,7 @@ The company Egal - run by Kabila’s closest associates – billed itself as a p
 
 Egal’s funding included $43 million diverted from the Central Bank and $34.6 million of suspect transfers through the Congolese branch of BGFI, whose holding company is partly owned by Gabon’s presidential family.
 
-DRC’s anti-corruption czar, Jules Alingete, has told Congo Hold-up that Egal must have known about the diversion of Central Bank funds. He has said that the BGFI belgongs to a “mafia group” and that “what has happened is unacceptable.” In an earlier letter to Egal, published online, he had exonerated the company.
+DRC’s anti-corruption czar, Jules Alingete, has told Congo Hold-up that Egal must have known about the diversion of Central Bank funds. He has said that the BGFI belongs to a “mafia group” and that “what has happened is unacceptable.” In an earlier letter to Egal, published online, he had exonerated the company.
 
 “_Egal is symbolic of the cynicism and corruption that deprived Congo of desperately needed funds_”, said Gabriel Bourdon-Fattal of PPLAAF. “_A company with a façade of patriotic heroism, aiming to provide affordable food for all – only to serve as a golden piggybank for the President’s friends._”
 
