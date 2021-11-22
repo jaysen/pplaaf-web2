@@ -6,7 +6,7 @@ title: Congo Hold-up&#58 le plus grand leak d’Afrique révèle un détournemen
 author: PPLAAF
 excerpt_separator: <!--more-->
 image: chu.jpeg
-excerpt: Congo Hold-up&#58
+excerpt: Des fonds publics détournés par l’entourage de l’ancien Président Kabila et des élites de la RDC grâce à la BGFIBank 
 tag: [featured, pressrelease, DRC]
 category: fr
 ---
@@ -56,15 +56,15 @@ Pour plus d’informations sur Congo Hold-up, visitez le site de l’enquête : 
 
 
 ### Média :
--	Avec le réseau [EIC network](https://eic.network/) : Mediapart (France), [De Standaard ](https://www.standaard.be/) et [Le Soir](https://www.lesoir.be/) (Belgium), [NRC](https://www.nrc.nl/) (Netherlands), [Der Spiegel](https://www.spiegel.de/) (Germany), [infoLibre](https://www.infolibre.es/) (Spain), [Politiken](https://politiken.dk/) (Denmark), [Expresso](https://expresso.pt/) (Portugal), [VG](https://www.vg.no/) (Norway), [Nacional](https://www.nacional.hr/) (Croatia), RCIJ (Romania)
-- [Bloomberg](https://www.bloomberg.com/) (USA)
+-	Avec le réseau [EIC network](https://eic.network/) : Mediapart (France), [De Standaard ](https://www.standaard.be/) et [Le Soir](https://www.lesoir.be/) (Belgique), [NRC](https://www.nrc.nl/) (Pays-Bas), [Der Spiegel](https://www.spiegel.de/) (Allemagne), [infoLibre](https://www.infolibre.es/) (Espagne), [Politiken](https://politiken.dk/) (Danemark), [Expresso](https://expresso.pt/) (Portugal), [VG](https://www.vg.no/) (Norvège), [Nacional](https://www.nacional.hr/) (Croatie), RCIJ (Roumanie)
+- [Bloomberg](https://www.bloomberg.com/) (États-Unis)
 - [RFI - Radio France Internationale](https://www.rfi.fr/en/)(France)
-- [L'Orient le Jour](https://today.lorientlejour.com/) (Lebanon)
-- [BBC Africa Eye ](https://www.bbc.co.uk/programmes/n27vnqnt)(UK)
-- [KvF](https://kvf.fo/) (Faeroe Islands)
-- [The Namibian](https://www.namibian.com.na/) (Namibia)
-- [The Continent](https://mg.co.za/thecontinent/) (South Africa)
-- [The Wire](https://thewire.in/) (India)
+- [L'Orient le Jour](https://today.lorientlejour.com/) (Liban)
+- [BBC Africa Eye ](https://www.bbc.co.uk/programmes/n27vnqnt)(Royaume-Uni)
+- [KvF](https://kvf.fo/) (Îles Féroé)
+- [The Namibian](https://www.namibian.com.na/) (Namibie)
+- [The Continent](https://mg.co.za/thecontinent/) (Afrique du Sud)
+- [The Wire](https://thewire.in/) (Inde)
  
 ### ONG :
 - [PPLAAF](https://www.pplaaf.org/)
