@@ -12,7 +12,7 @@ tag: [featured, pressrelease, DRC]
 
 **Egal, a company controlled by Kabila’s inner circle, has also received millions from public institutions through BGFIBank**
 
-(Paris, November 29th, 2021) Egal, a top Congolese food company, paid $3.34 million to the Democratic Republic of Congo’s presidential office during the rule of former President Joseph Kabila through BGFIBank, the Platform to Protect Whistleblowers in Africa ([PPLAAF](https://pplaaf.org)) revealed today. This revelation is part of the [Congo Hold-up investigations](https://d.docs.live.net/a285c1db7f4ef129/Drafts/congoholdup.com).
+(Paris, November 29th, 2021) Egal, a top Congolese food company, paid $3.34 million to the Democratic Republic of Congo’s presidential office during the rule of former President Joseph Kabila through BGFIBank, the Platform to Protect Whistleblowers in Africa ([PPLAAF](https://pplaaf.org)) revealed today. This revelation is part of the [Congo Hold-up investigations](https://congoholdup.com).
 
 The company’s executives previously denied acting on behalf of President Kabila.
 
