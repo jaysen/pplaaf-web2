@@ -20,7 +20,7 @@ The 23 December 2013 payment to the presidency account, however, comes on top of
 
 Public money also helped Kabila stock his vast private landholdings with wild animals – including giraffes, elephants and zebras – [imported from Namibia](https://www.conservationfrontlines.org/2020/01/drc-translocation-2019-wildlife-vets-namibia/).
 
-The Congo Hold-up investigations into Africa’s biggest ever data leak were initiated by PPLAAF and [Mediapart](https://www.mediapart.fr/), and coordinated with the media network European Investigative Collaborations (EIC). The investigations were carried out by 19 media groups and five NGOs.
+The Congo Hold-up investigations into Africa’s biggest ever data leak were initiated by PPLAAF and [Mediapart](https://www.mediapart.fr/), and coordinated with the media network European Investigative Collaborations ([EIC](https://eic.network/)). The investigations were carried out by 19 media groups and five NGOs.
 
 Today’s revelations on the payments to the presidency also feature in a new BBC Africa Eye documentary, “[Congo’s missing millions](https://www.youtube.com/watch?v=hnRknQDxBCQ&ab_channel=BBCNewsAfrica)”
 
