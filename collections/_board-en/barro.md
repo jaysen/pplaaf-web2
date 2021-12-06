@@ -1,6 +1,5 @@
 ---
 name: Fadel Barro
-role: West Africa coordinator
 image: barro.jpg
 twitter: https://twitter.com/BarroFadel
 ---

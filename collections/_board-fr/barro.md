@@ -1,6 +1,5 @@
 ---
 name: Fadel Barro
-role: Coordinateur pour l’Afrique de l’Ouest
 image: barro.jpg
 twitter: https://twitter.com/BarroFadel
 ---
