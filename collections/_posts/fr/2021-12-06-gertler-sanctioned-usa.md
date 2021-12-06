@@ -5,7 +5,7 @@ translated: [English]
 title: RDC&#58 Des sociétés liées à Dan Gertler sanctionnées par les Etats-Unis
 author: PPLAAF
 excerpt_separator: <!--more-->
-image: gertler1.jpg
+image: gertler1a.jpg
 excerpt: Les 12 sociétés, ainsi qu’un associé du magnat des mines, avaient été épinglés par PPLAAF et Global Witness en 2020 dans leur rapport « Des Sanctions, mine de rien » 
 tag: [featured, pressrelease, DRC]
 category: fr
