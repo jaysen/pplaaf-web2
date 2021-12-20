@@ -109,7 +109,7 @@ Le CCOAIB est une fédération d’organisations de la société civile rwandais
 -   Adresse : Boulevard de l’Umuganda, District de Gasabo / Kigali
 -   Tél : (+250)788302065
 -   E-mail : info[at]ccoaib.rw/ccoaib@gmail.com
--   Sites internet : [ccoaib.rw](https://ccoaib.rw) / [genocidearchiverwanda.org.rw - DECLARATION DU COMITE EXECUTIF DU CONSEIL DE CONCERTATION DES ORGANISATIONS](https://genocidearchiverwanda.org.rw/index.php/DECLARATION_DU_COMITE_EXECUTIF_DU_CONSEIL_DE_CONCERTATION_DES_ORGANISATIONS_D%27APPUI_AUX_INIATIVES_DE_BASE_%22CCOAIB%22)
+-   Sites internet : [ccoaib.rw](https://ccoaib.rw) / [genocidearchiverwanda.org.rw - DECLARATION DU COMITE EXECUTIF DU CONSEIL DE CONCERTATION DES ORGANISATIONS D'APPUI AUX INITIATIVES DE BASE "CCOAIB"](https://genocidearchiverwanda.org.rw/index.php/DECLARATION_DU_COMITE_EXECUTIF_DU_CONSEIL_DE_CONCERTATION_DES_ORGANISATIONS_D%27APPUI_AUX_INIATIVES_DE_BASE_%22CCOAIB%22)
 
 **La Plateforme de la société civile du Rwanda (RCSP) :**
 La RCSP est une plateforme d'organisations de la société civile qui cherchent à obtenir une plus grande participation des citoyens aux programmes de développement durable par le dialogue et le plaidoyer au niveau national (avec les institutions publiques rwandaises) et les bailleurs de fonds internationaux. Elle se concentre principalement sur les initiatives en faveur d’une économie durable.
