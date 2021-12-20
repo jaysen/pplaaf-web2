@@ -3,7 +3,7 @@ layout: page
 title: Dan Gertler Revelations
 lang: en
 type: case
-translated: []
+translated: [Français]
 tags: [DRC]
 ---
 On July 2nd, 2020, a joint investigation by PPLAAF and Global Witness, “[Undermining sanctions](https://www.pplaaf.org/2020/07/02/billionaire_laundering_drc.html)”, uncovered evidence indicating controversial mining magnate Dan Gertler allegedly used an international money laundering network to attempt to evade US sanctions and continue doing business in the Democratic Republic of Congo (DRC). This scheme seems to have allowed him to funnel millions of dollars abroad and acquire new mining assets in DRC. PPLAAF worked on this investigation for more than a year with [Le Monde](https://www.lemonde.fr/afrique/article/2020/07/02/en-rdc-le-jeu-trouble-du-milliardaire-israelien-dan-gertler-face-aux-sanctions-americaines_6044903_3212.html), [Bloomberg](https://www.bloomberg.com/news/features/2020-07-02/sanctioned-billionaire-dan-gertler-s-haven-a-tiny-congolese-bank) and [Haaretz](https://www.haaretz.com/israel-news/.premium.MAGAZINE-suitcases-of-cash-deposited-in-congo-then-millions-transferred-to-israeli-figures-1.8963439) in Israel.
