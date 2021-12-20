@@ -2,7 +2,7 @@
 layout: page-full
 lang: en
 title: Rwanda 
-#translated: [Français]
+translated: [Français]
 ---
 ## Relevant legislation: 
 - Constitution of the Republic of Rwanda (2015)
