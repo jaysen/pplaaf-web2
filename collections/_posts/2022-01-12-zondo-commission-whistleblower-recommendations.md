@@ -12,7 +12,7 @@ tag: [featured, pressrelease, SouthAfrica, ]
 
 **The Commission’s report shows major role played by whistleblowers in revealing State Capture**
 
-(Johannesburg, January 12th, 2022) – The [report](https://www.gov.za/sites/default/files/gcis_document/202201/judicial-commission-inquiry-state-capture-reportpart-1.pdf) of the Judicial Commission of Enquiry into State Capture (the “Zondo Commission”) proposes long-awaited recommandations for the protection of whistleblowers, yet these recommendations remain insufficient, said the Platform to Protect Whistleblowers in Africa ([PPLAAF](pplaaf.org)) today. PPLAAF’s own recommendations, which PPLAAF submitted to the Zondo Commission earlier this year, [are being published today](https://pplaaf.org/downloads/PPLAAFSAwhistleblowerrecommendations.pdf).
+(Johannesburg, January 12th, 2022) – The [report](https://www.gov.za/sites/default/files/gcis_document/202201/judicial-commission-inquiry-state-capture-reportpart-1.pdf) of the Judicial Commission of Enquiry into State Capture (the “Zondo Commission”) proposes long-awaited recommandations for the protection of whistleblowers, yet these recommendations remain insufficient, said the Platform to Protect Whistleblowers in Africa ([PPLAAF](https://pplaaf.org)) today. PPLAAF’s own recommendations, which PPLAAF submitted to the Zondo Commission earlier this year, [are being published today](https://pplaaf.org/downloads/PPLAAFSAwhistleblowerrecommendations.pdf).
 
 The Zondo Commission is an unprecedented public inquiry established in January 2018 to investigate allegations of state capture, corruption, and fraud in the public sector in South Africa. The scandal involves South-African former President Jacob Zuma and many individuals and companies, and originates from claims from whistleblowers notably [supported by PPLAAF](https://www.pplaaf.org/cases/state-capture.html). The charges can be summarized as being part of “state capture”: systemic political corruption in which private interests took over the state and its apparels, gaining millions in the process.
 
@@ -45,7 +45,7 @@ Although the Zondo Commission acknowledged “_the body of legislation although 
 
 Only recently, South Africa whistleblower [Babita Deokaran](https://mg.co.za/news/2021-12-04-babita-deokaran-an-obstacle-for-the-corrupt/) was brutally murdered. South-African whistleblowers supported by PPLAAF in recent years have faced endless legal retaliation, public attacks, and financial loss.
 
-[PPLAAF](pplaaf.org) is a non-governmental organization established in 2017 to protect whistleblowers, as well as to advocate and engage in strategic litigation on their behalf when their revelations deal with the general interests of African citizens. Since 2017, PPLAAF has been supporting South African whistleblowers, including Mosilo Mothepu, Bianca Goodson, Athol Williams, Bongani Mathebula and Simphiwe Mayisela.
+[PPLAAF](https://pplaaf.org) is a non-governmental organization established in 2017 to protect whistleblowers, as well as to advocate and engage in strategic litigation on their behalf when their revelations deal with the general interests of African citizens. Since 2017, PPLAAF has been supporting South African whistleblowers, including Mosilo Mothepu, Bianca Goodson, Athol Williams, Bongani Mathebula and Simphiwe Mayisela.
 
 
 ### For more information on PPLAAF, please visit:
