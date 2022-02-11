@@ -18,6 +18,11 @@ As written by [Al Jazeera](https://www.aljazeera.com/indepth/features/anatomy-br
 
 Johannes Stefansson disclosed to Wikileaks over 30,000 documents including emails, memos, invoices and other key documents. 
 
+At the same time, whistleblower Sharon Neumbo, who was the director of Cassidra Fishing, the shareholding company of Sinco Fishing, itself partly owned by Samherji, filed an official complaint against her colleague after learning of alleged embezzlement inside her company. Without any explanation, the police authorities never followed up on her complaint. 
+
+In early 2020, Sharon Neumbo filed a voluntary statement with the Namibian Anti-Corruption Commission, providing official documents as evidence. The Comission refused to sign the declaration and, like the police, ignored her reports.
+The Financial Intelligence Unit contacted Sharon Neumbo directly to assist in the investigations. She then officialy became a whistleblower, later protected by PPLAAF just like Stefansson.
+
 Published in November 2019, the scandal resulted in the resignation of several Namibian officials, including Minister of Fisheries Bernhard Esau and the Minister of Justice Sacky Shanghala. Both former ministers have been indicted with corruption, fraud and money laundering by the Namibian authorities. Samherji’s CEO Thorsteinn Mar Baldvinsson temporarily stepped aside after the investigation was launched – and came back to his CEO position in March 2020.
 
 Since the disclosure of the “Fishrot case”, Namibian authorities have launched an investigation and [requested](https://www.namibian.com.na/87432/read/State-hunts-Fishrot-assets-in-Dubai) legal assistance from several countries.
