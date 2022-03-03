@@ -2,7 +2,7 @@
 layout: page
 lang: en
 title: Job Postings
-translated: 
+translated: [Français]
 ---
 
 PPLAAF is not advertising any job postings right now.

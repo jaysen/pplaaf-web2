@@ -2,7 +2,7 @@
 layout: page
 lang: fr
 title: Offres d'emploi
-translated: 
+translated: [English]
 ---
 
 La Plateforme de Protection des Lanceurs d'alerte en Afrique (PPLAAF) recherche un coordinateur régional pour son bureau Afrique de l’Ouest. Poste à temps plein, basé à Dakar au Sénégal.
