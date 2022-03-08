@@ -1,6 +1,6 @@
 ---
 name: Gabriel Bourdon-Fattal
-role: Project Manager
+role: Programs Manager
 image: bourdon-fattal.jpg
 twitter: https://twitter.com/BourdonFattal
 ---
